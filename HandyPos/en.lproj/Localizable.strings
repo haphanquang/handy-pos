@@ -1,0 +1,130 @@
+/*
+  Localizable.strings
+  HandyPos
+
+  Created by Phan, Quang Ha | Kawa | RP on 2022/05/02.
+  
+*/
+"Trở về" = "Trở về";
+
+/* Settings */
+"Cài đặt" = "Settings";
+"Bán hàng" = "Sales";
+"Ngôn ngữ" = "Language";
+"Danh sách món" = "Menu";
+"Về ứng dụng" = "About App";
+"Liên hệ" = "Contact";
+"Phiên bản ứng dụng" = "App Version";
+"không rõ" = "Unknown";
+"Sao lưu & đồng bộ" = "Backup and Sync";
+"Dữ liệu sao lưu có thể truy cập bằng ứng dụng Files của iPhone. " = "Backup data can be found by Files app";
+"Vào " = "Goto ";
+"Files -> Browse -> On My iPhone -> hPOS" = "Files -> Browse -> On My iPhone -> hPOS";
+" và copy thư mục Database" = " and copy Database folder";
+"Xoá toàn bộ dữ liệu và trả về mặc định" = "Clear data and reset to default";
+"Cẩn thận" = "Warning";
+"Xoá liền" = "Clean";
+"Toàn bộ dữ liệu bán hàng, kể cả menu, sẽ bị xoá và trả về mặc định" = "All data includes menu will be erased";
+"Tên món" = "Name";
+"Mã" = "Code";
+"Giá bán" = "Sale Price";
+"Giá gốc (đã bao gồm chi phí)" = "Base price (with costs)";
+"Màu nhận diện" = "Color";
+"Mặc định" = "Default";
+"Ghi chú" = "Note";
+"Xoá" = "Clear";
+"Lưu" = "Save";
+"Thêm mới" = "New";
+"Thay đổi" = "Change";
+"nhập ..." = "type here ...";
+"Menu bán hàng" = "Menu";
+
+"đã gởi thành công" = "sent successfully";
+"Gởi yêu cầu" = "Send request";
+"Tên" = "Name";
+"Email" = "Email";
+"Tiêu Đề" = "Subject";
+"Nội dung" = "Content";
+"Thông tin liên lạc" = "Contact information";
+"Về chúng tôi" = "About us";
+
+"Tên cửa hàng" = "Store name";
+"Số điện thoại" = "Phone";
+"Địa chỉ" = "Address";
+"Địa chỉ mở rộng" = "Ext Address";
+"Mã bưu chính" = "Postal code";
+"Lời chúc" = "Bottom wish";
+"Cập nhật" = "Update";
+"Thông tin Cửa hàng" = "Store information";
+"Đã cập nhật" = "Updated";
+
+/* Order */
+"Tạo đơn" = "Create order";
+"Huỷ" = "Cancel";
+"Xác nhận" = "Confirm";
+"Bán sản phẩm với số tiền: %@ ?" = "Make sales with price: %@ ?";
+"%@ Ghi chú" = "%@ Note";
+"Xem đơn %@ món" = "View order with %@ items";
+"Chốt %@" = "Create %@";
+
+"Hoá đơn" = "Bill";
+"Đơn hàng" = "Orders";
+"Thông tin" = "Information";
+"SL" = "SL";
+"Thành tiền" = "Summary";
+"Tổng" = "Total";
+"Chốt đơn" = "Create order";
+"Ngày tạo đơn" = "Created date";
+"Xoá đơn" = "Delete";
+"Đơn hàng sẽ bị xoá khỏi danh sách và không thể khôi phục. Bạn có chắc chắn?" = "Order will be removed and cannot recover. Are you sure?";
+"Đợi chút" = "Wait a minute";
+"Tiếp tục" = "Go on";
+
+"món" = "items";
+"Hôm nay" = "Today";
+"Đơn hàng của bạn không có món nào. Xin hãy kiểm tra lại" = "There's no items in your order. Please double check";
+"Thêm ghi chú" = "Add note";
+"Không có đơn hàng.\nKhách hàng đang chờ mua những món hàng tốt nhất từ bạn đó." = "No orders.\nConsumers are waiting for your best quality products.";
+"Không thể xoá lúc này" = "Cannot delete now";
+"Xoá nội dung" = "Clear content";
+"Không có đơn hàng" = "There is no order";
+
+"Đơn thứ" = "Order";
+
+"Tuỳ chọn" = "Options";
+"Tất cả" = "All";
+"mới tạo" = "new";
+"đang làm" = "preparing";
+"đang phục vụ" = "serving";
+"hoàn tất" = "completed";
+"đã huỷ" = "cancelled";
+"đang giao" = "delivering";
+
+/* Goods */
+"Xác nhận (%@)" = "Confirm (%@)";
+"nhập từ khoá..." = "enter word...";
+"Xoá chọn" = "Clear selection";
+"Bán nhanh" = "Fast order";
+"Tạo mới" = "New";
+"Thêm món" = "Add item";
+
+/* Analytics */
+"(*) Xin lưu ý: thống kê lợi nhuận không bao gồm Tuỳ chọn giá" = "(*) Note: profit analytics is not include Custom Price items";
+"7 ngày gần đây" = "Last 7 days";
+"30 ngày gần đây" = "Last 30 days";
+"Thống kê" = "Analytics";
+"Ngày tạo đơn" = "Created date";
+"Tổng doanh thu" = "Total Sales";
+"%@ đơn " = "%@ orders ";
+"hoàn tất" = "completed";
+"Lợi nhuận ước tính" = "Estimated profit";
+"So với TB tuần này %@" = "Compares to this week %@";
+"So với TB tháng này %@" = "Compates to this month %@";
+"Thống kê" = "Analytics";
+
+"Chọn món" = "Menu";
+"Phím số" = "Num Pad";
+"Tỷ lệ theo món" = "By items";
+"Doanh thu" = "Sales";
+"Số lượng" = "Amount";
+"Lợi nhuận ước tính" = "Estimated profit";

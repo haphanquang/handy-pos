@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  HandyPos
+
+  Created by Phan, Quang Ha | Kawa | RP on 2022/05/02.
+  
+*/
+"Trở về" = "Trở về";
+
+/* Settings */
+"Cài đặt" = "Cài đặt";
+"Bán hàng" = "Bán hàng";
+"Ngôn ngữ" = "Ngôn ngữ";
+"Danh sách món" = "Danh sách món";
+"Về ứng dụng" = "Về ứng dụng";
+"Liên hệ" = "Liên hệ";
+"Phiên bản ứng dụng" = "Phiên bản ứng dụng";
+"không rõ" = "không rõ";
+"Sao lưu & đồng bộ" = "Sao lưu & đồng bộ";
+"Dữ liệu sao lưu có thể truy cập bằng ứng dụng Files của iPhone. " = "Dữ liệu sao lưu có thể truy cập bằng ứng dụng Files của iPhone. ";
+"Vào " = "Vào ";
+"Files -> Browse -> On My iPhone -> hPOS" = "Files -> Browse -> On My iPhone -> hPOS";
+" và copy thư mục Database" = " và copy thư mục Database";
+"Xoá toàn bộ dữ liệu và trả về mặc định" = "Xoá toàn bộ dữ liệu và trả về mặc định";
+"Cẩn thận" = "Cẩn thận";
+"Xoá liền" = "Xoá liền";
+"Toàn bộ dữ liệu bán hàng, kể cả menu, sẽ bị xoá và trả về mặc định" = "Toàn bộ dữ liệu bán hàng, kể cả menu, sẽ bị xoá và trả về mặc định";
+"Tên món" = "Tên món";
+"Mã" = "Mã";
+"Giá bán" = "Giá bán";
+"Giá gốc (đã bao gồm chi phí)" = "Giá gốc (đã bao gồm chi phí)";
+"Màu nhận diện" = "Màu nhận diện";
+"Mặc định" = "Mặc định";
+"Ghi chú" = "Ghi chú";
+"Xoá" = "Xoá";
+"Lưu" = "Lưu";
+"Thêm mới" = "Thêm mới";
+"Thay đổi" = "Thay đổi";
+"nhập ..." = "nhập ...";
+"Menu bán hàng" = "Menu bán hàng";
+
+"đã gởi thành công" = "đã gởi thành công";
+"Gởi yêu cầu" = "Gởi yêu cầu";
+"Tên" = "Tên";
+"Email" = "Email";
+"Tiêu Đề" = "Tiêu Đề";
+"Nội dung" = "Nội dung";
+"Thông tin liên lạc" = "Thông tin liên lạc";
+"Về chúng tôi" = "Về chúng tôi";
+
+"Tên cửa hàng" = "Tên cửa hàng";
+"Số điện thoại" = "Số điện thoại";
+"Địa chỉ" = "Địa chỉ";
+"Địa chỉ mở rộng" = "Địa chỉ mở rộng";
+"Mã bưu chính" = "Mã bưu chính";
+"Lời chúc" = "Lời chúc";
+"Cập nhật" = "Cập nhật";
+"Thông tin Cửa hàng" = "Thông tin Cửa hàng";
+"Đã cập nhật" = "Đã cập nhật";
+
+/* Order */
+"Tạo đơn" = "Tạo đơn";
+"Huỷ" = "Huỷ";
+"Xác nhận" = "Xác nhận";
+"Bán sản phẩm với số tiền: %@ ?" = "Bán sản phẩm với số tiền: %@ ?";
+"%@ Ghi chú" = "%@ Ghi chú";
+"Xem đơn %@ món" = "Xem đơn %@ món";
+"Chốt %@" = "Chốt %@";
+
+"Hoá dơn" = "Hoá đơn";
+"Đơn hàng" = "Đơn hàng";
+"Thông tin" = "Thông tin";
+"SL" = "SL";
+"Thành tiền" = "Thành tiền";
+"Tổng" = "Tổng";
+"Chốt đơn" = "Chốt đơn";
+"Xoá đơn" = "Xoá đơn";
+"Ngày tạo đơn" = "Ngày tạo đơn";
+"Xoá đơn hàng" = "Xoá đơn hàng";
+"Đơn hàng sẽ bị xoá khỏi danh sách và không thể khôi phục. Bạn có chắc chắn?" = "Đơn hàng sẽ bị xoá khỏi danh sách và không thể khôi phục. Bạn có chắc chắn?";
+"Đợi chút" = "Đợi chút";
+"Tiếp tục" = "Tiếp tục";
+
+"món" = "món";
+"Hôm nay" = "Hôm nay";
+"Đơn hàng của bạn không có món nào. Xin hãy kiểm tra lại" = "Đơn hàng của bạn không có món nào. Xin hãy kiểm tra lại";
+"Thêm ghi chú" = "Thêm ghi chú";
+"Không có đơn hàng.\nKhách hàng đang chờ mua những món hàng tốt nhất từ bạn đó." = "Không có đơn hàng.\nKhách hàng đang chờ mua những món hàng tốt nhất từ bạn đó.";
+"Không thể xoá lúc này" = "Không thể xoá lúc này";
+"Xoá nội dung" = "Xoá nội dung";
+"Không có đơn hàng" = "Không có đơn hàng";
+
+"Đơn thứ" = "Đơn thứ";
+
+"Tuỳ chọn" = "Tuỳ chọn";
+"Tất cả" = "Tất cả";
+"mới tạo" = "mới tạo";
+"đang làm" = "đang làm";
+"đang phục vụ" = "đang phục vụ";
+"hoàn tất" = "hoàn tất";
+"đã huỷ" = "đã huỷ";
+"đang giao" = "đang giao";
+
+/* Goods */
+"Xác nhận (%@)" = "Xác nhận (%@)";
+"nhập từ khoá..." = "nhập từ khoá...";
+"Xoá chọn" = "Xoá chọn";
+"Bán nhanh" = "Bán nhanh";
+"Tạo mới" = "Tạo mới";
+"Thêm món" = "Thêm món";
+
+/* Analytics */
+"(*) Xin lưu ý: thống kê lợi nhuận không bao gồm Tuỳ chọn giá" = "(*) Xin lưu ý: thống kê lợi nhuận không bao gồm Tuỳ chọn giá";
+"7 ngày gần đây" = "7 ngày gần đây";
+"30 ngày gần đây" = "30 ngày gần đây";
+"Thống kê" = "Thống kê";
+"Ngày tạo đơn" = "Ngày tạo đơn";
+"Tổng doanh thu" = "Tổng doanh thu";
+"%@ đơn " = "%@ đơn ";
+"hoàn tất" = "hoàn tất";
+"Lợi nhuận ước tính" = "Lợi nhuận ước tính";
+"So với TB tuần này %@" = "So với TB tuần này %@";
+"So với TB tháng này %@" = "So với TB tháng này %@";
+"Thống kê" = "Thống kê";
+
+"Chọn món" = "Chọn món";
+"Phím số" = "Phím số";
+"Tỷ lệ theo món" = "Tỷ lệ theo món";
+"Doanh thu" = "Doanh thu";
+"Số lượng" = "Số lượng";
+"Lợi nhuận ước tính" = "Lợi nhuận ước tính";
