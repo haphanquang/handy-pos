@@ -18,13 +18,9 @@ The project aims to build a POS solution on smartphones for small food vending t
 It operates offline and can be used flexibly anywhere.
 
 ## Chức năng/Features 
-- Xây dưng menu và gọi món
-- Thống kê doanh thu và lợi nhuận
-- In hoá đơn và chia sẻ
-
-Building menu and ordering
-Revenue and profit statistics
-Bill printing and sharing
+- Xây dưng menu và gọi món / Building menu and ordering
+- Thống kê doanh thu và lợi nhuận / Revenue and profit statistics
+- In hoá đơn và chia sẻ / Bill printing and sharing
 
 ### Hoàn thành/Completed
 Phần gọi món, quản lý đơn hàng đã hoàn thành
@@ -36,11 +32,8 @@ Invoices can be exported in the form of an image and saved to an album.
 Basic statistics for the week and month are available.
 
 ### Mục tiêu/Todo
-- Có thể kết nối máy in và in hoá đơn trực tiếp
-- Xuất ra file excel cho các đơn hàng đã tạo
-
-- Can connect to a printer and print invoices directly
-- Export order to excel file for order that was created
+- Có thể kết nối máy in và in hoá đơn trực tiếp / Can connect to a printer and print invoices directly
+- Xuất ra file excel cho các đơn hàng đã tạo / Export order to excel file for order that was created
 
 ## Các thư viện sử dụng/Library
 - SwiftUI và Combine
